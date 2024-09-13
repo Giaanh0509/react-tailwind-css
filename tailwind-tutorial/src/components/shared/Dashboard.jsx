@@ -11,8 +11,9 @@ export const Dashboard = () => {
             <p>Hello world</p> 
             </div>
             <div>
-            <p>Hello world</p> 
+                This is dashboard
             </div>
+
         </div>
     )
 }
